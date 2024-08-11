@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.imgur.com/vJQYyEc.jpg",
+      "title": "The Secrets of the Lost World",
+      "author": "John Doe",
+      "author_img": "https://i.imgur.com/sddsUDq.png",
+      "posted_date": "2024-07-15",
+      "reading_time": 5,
+      "hashtags": ["#Adventure", "#Mystery", "#Exploration"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.imgur.com/6wGcutl.png",
+      "title": "A Journey Through Time",
+      "author": "Jane Smith",
+      "author_img": "https://i.imgur.com/1lFmbwV.jpg",
+      "posted_date": "2024-08-01",
+      "reading_time": 8,
+      "hashtags": ["#SciFi", "#TimeTravel", "#Future"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.imgur.com/R0qZlN3.png",
+      "title": "The Art of Mindfulness",
+      "author": "Emily Johnson",
+      "author_img": "https://i.imgur.com/LtMZ0st.jpg",
+      "posted_date": "2024-08-05",
+      "reading_time": 6,
+      "hashtags": ["#Wellness", "#Mindfulness", "#SelfCare"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.imgur.com/OLHfdcP.jpg",
+      "title": "Tech Innovations of 2024",
+      "author": "Michael Brown",
+      "author_img": "https://i.imgur.com/AHOKpBn.jpg",
+      "posted_date": "2024-07-25",
+      "reading_time": 7,
+      "hashtags": ["#Tech", "#Innovation", "#2024"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.imgur.com/5w4yUDn.jpg",
+      "title": "Exploring the Culinary World",
+      "author": "Sophia Lee",
+      "author_img": "https://i.imgur.com/sddsUDq.png",
+      "posted_date": "2024-08-10",
+      "reading_time": 4,
+      "hashtags": ["#Food", "#Culinary", "#Travel"]
+    }
+  ]
+  
